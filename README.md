@@ -17,4 +17,3 @@ Hi, my name is Tygo and I work as a software engineer at BEWISE Solutions. In ad
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Adobe](https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=flat&logo=adobe&logoColor=white)
