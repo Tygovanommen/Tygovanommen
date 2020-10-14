@@ -11,6 +11,8 @@ Hi, my name is Tygo and I work as a software engineer at BEWISE Solutions. In ad
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat&logo=java)
 ![GO](https://img.shields.io/badge/go-%2300ADD8.svg?&style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=flat&logo=python)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
