@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Tygo%20van%20Ommen-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tygo-van-ommen/ "Connect on LinkedIn")
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tygovanommen)
 
-Hi, my name is Tygo and I work as a software engineer at BEWISE Solutions. In addition to my work as a Software engineer, I also pursue a Bachelor of Science - ICT & Software Engineering at Fontys University of Applied Sciences.
+Hi, my name is Tygo. I'm a software engineer at BEWISE Solutions and a graduate of Fontys University of Applied Sciences, where I earned a Bachelor of Science in ICT & Software Engineering.
 
 ## ⚡ Technologies
 ![Php](https://img.shields.io/badge/-php-394989?style=flat&logo=php)
