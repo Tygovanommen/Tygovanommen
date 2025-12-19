@@ -1,6 +1,5 @@
 ## Hi there! <img src="https://github.com/Tygovanommen/Tygovanommen/blob/main/wave.gif" width="30">
 
-[![Gmail Badge](https://img.shields.io/badge/-tygovanommen@live.nl-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tygovanommen@live.nl "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Tygo%20van%20Ommen-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tygo-van-ommen/ "Connect on LinkedIn")
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tygovanommen)
 
