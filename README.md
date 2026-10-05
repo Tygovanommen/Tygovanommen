@@ -19,3 +19,5 @@ Hi, my name is Tygo. I'm a software engineer at BEWISE Solutions and a graduate 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=flat&logo=solidity&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind-FFFFFF?logo=tailwind-css)
+
+_Founder of https://billebly.com/_
